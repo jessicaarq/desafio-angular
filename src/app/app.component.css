@@ -1,0 +1,16 @@
+mat-card {
+    width: 50%;
+}
+
+.mat-toolbar-row, .mat-toolbar-single-row {
+    width: 53%;
+    justify-content: center;
+}
+h6{
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mat-list-base .mat-list-item{
+    height: 20px;
+}
